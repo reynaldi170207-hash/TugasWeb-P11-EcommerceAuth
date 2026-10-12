@@ -21,9 +21,9 @@ Salin seluruh isi folder ini ke root proyek (timpa file yang ada), lalu:
 
 | Peran  | Email              | Password |
 |--------|--------------------|----------|
-| admin  | admin@example.com  | password |
+| admin  | admin@gmail.com  | admin123 |
 | editor | editor@example.com | password |
-| user   | user@example.com   | password |
+| user   | user@gmail.com   | user123 |
 
 ## Filament + Shield
 
